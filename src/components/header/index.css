@@ -1,0 +1,7 @@
+.header{
+  width: 100%;
+  min-height: 3rem;
+  color: white;
+  background-color: var(--yellow);
+  align-self: flex-start;
+}

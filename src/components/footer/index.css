@@ -1,0 +1,6 @@
+footer{
+  width: 100%;
+  align-self: flex-end;
+  background-color: var(--dark-gray);
+  color: white;
+}
